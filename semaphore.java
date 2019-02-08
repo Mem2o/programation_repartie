@@ -1,5 +1,5 @@
 public abstract class semaphore {
-
+    
     protected int valeur=0;
 
     protected semaphore (int valeurInitiale)
